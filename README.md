@@ -1,5 +1,7 @@
-### Hi there 👋
+[![RPRKLR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPRKLR&hide=issues,stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true&include_all_contributions=true
+)](#)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raychani1&langs_count=10&theme=dark&&include_forks=false)](#)
 <!--
 **RPRKLR/RPRKLR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
