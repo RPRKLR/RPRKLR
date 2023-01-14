@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/dvor%C3%A1k-p%C3%A9ter-465165262/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="your-twitter-URL">
@@ -24,11 +24,11 @@
 I am a ROS2/Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Slovakia.
 - :telescope: I’m working as a Software Engineer and building Mobile Robots and Mobile Applications.
 
-- :seedling: Learning Rust and Webdevelopment
+- :seedling: Learning Rust and Web development
 
 - :zap: In my free time, I like to learn new technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge]()](your-linkedin-url)
+- :mailbox: Contact me through LinkedIn.
 
 ---
 
